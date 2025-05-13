@@ -1,0 +1,211 @@
+{
+  "main": {
+    "id": "918acaf6c5a8d9d0",
+    "type": "split",
+    "children": [
+      {
+        "id": "47bddf75310afe6a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "40d4497eb04c029a",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nueva pestaña"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4204f3fc6cc0e3ee",
+    "type": "split",
+    "children": [
+      {
+        "id": "fc175e2738f625d6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cf5892b93334b054",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de archivos"
+            }
+          },
+          {
+            "id": "558a7090f964d165",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Buscar"
+            }
+          },
+          {
+            "id": "32fd788634c7cc56",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "724f54f94c7084b5",
+    "type": "split",
+    "children": [
+      {
+        "id": "04538bb97ea136b5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dc2a91f3b99e6a72",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Bienvenido.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Enlaces entrantes de Bienvenido"
+            }
+          },
+          {
+            "id": "52638dee3f5906b9",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Bienvenido.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Enlaces salientes de Bienvenido"
+            }
+          },
+          {
+            "id": "08ad9ff0de047557",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Etiquetas"
+            }
+          },
+          {
+            "id": "3c43cf6a94983acb",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Bienvenido.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Esquema de Bienvenido"
+            }
+          },
+          {
+            "id": "848281ad543ab93e",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "markdown-importer:Abrir el importador de Markdown": false,
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "obsidian-importer:Open Importer": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "40d4497eb04c029a",
+  "lastOpenFiles": [
+    "ver dispositivos hardware manjaro.md",
+    "vale para el insomio_.md",
+    "tribulus terrestris recuperacion deporte.md",
+    "tribulus terrestris cuando tomar.md",
+    "tribulus terrestris.md",
+    "suspendo el equipo y se me reactiva automaticament.md",
+    "suplementos oxigenacion cerebral.md",
+    "suplementacion con nitrogeno recuperaciones.md",
+    "smoothie yogurt griego y arandanos.md",
+    "SMOOTHIE de ÓXIDO NÍTRICO CASERO.md",
+    "smoothie de cacao proteína de guisante.md",
+    "silajhit recuperacion deporte.md",
+    "remolacha oxido nitrico.md",
+    "recuperaciones con smooties naturales oxido nitric_II.md",
+    "recuperaciones con smooties naturales oxido nitric.md",
+    "README.md",
+    "Qué otros frutos rojos son ricos en óxido nítrico.md",
+    "Qué otros alimentos, además del aguacate, son reco.md",
+    "Qué otros alimentos contienen nitratos que se conv.md",
+    "Qué otros alimentos ayudan a combatir el insomnio.md",
+    "Qué frutas son recomendadas para mejorar el sueño.md",
+    "Qué frutas son las mejores para aumentar los nivel_II.md",
+    "Qué frutas son las mejores para aumentar los nivel.md",
+    "Qué extensión recomiendan para formatear JSON en V.md",
+    "Qué beneficios específicos aporta el aguacate desp.md",
+    "Qué alimentos son más recomendables para consumir.md",
+    "LICENSE",
+    "Sin nombre"
+  ]
+}
