@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "0fab7575d8999852",
+        "id": "19a8922c46e0f816",
         "type": "tabs",
         "children": [
           {
-            "id": "ab48a3cad09b4fc4",
+            "id": "09b81df39f151148",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -177,7 +177,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ab48a3cad09b4fc4",
+  "active": "848281ad543ab93e",
   "lastOpenFiles": [
     "README.md",
     "Tecnologia/aplicacion calendario linux.md",
