@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "47bddf75310afe6a",
+        "id": "0fab7575d8999852",
         "type": "tabs",
         "children": [
           {
-            "id": "40d4497eb04c029a",
+            "id": "ab48a3cad09b4fc4",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -74,7 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 653.5
+    "width": 396.5
   },
   "right": {
     "id": "724f54f94c7084b5",
@@ -177,8 +177,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "40d4497eb04c029a",
+  "active": "ab48a3cad09b4fc4",
   "lastOpenFiles": [
+    "README.md",
+    "Tecnologia/aplicacion calendario linux.md",
+    "Sin título.canvas",
+    "Nutrición y Cuidados Personales/brocoli propiedades.md",
     "Nutrición y Cuidados Personales/vale para el insomio_.md",
     "Nutrición y Cuidados Personales/tribulus terrestris recuperacion deporte.md",
     "Nutrición y Cuidados Personales/tribulus terrestris cuando tomar.md",
@@ -202,9 +206,6 @@
     "Nutrición y Cuidados Personales/Qué frutas son recomendadas para mejorar el sueño.md",
     "Nutrición y Cuidados Personales/Qué frutas son las mejores para aumentar los nivel_II.md",
     "Nutrición y Cuidados Personales/Qué frutas son las mejores para aumentar los nivel.md",
-    "Nutrición y Cuidados Personales/Qué beneficios específicos aporta el aguacate desp.md",
-    "Nutrición y Cuidados Personales/Qué alimentos son más recomendables para consumir.md",
-    "Nutrición y Cuidados Personales/Qué alimentos son los mejores para aumentar los ni.md",
     "Nutrición y Cuidados Personales",
     "Tecnologia",
     "Nutrición",
